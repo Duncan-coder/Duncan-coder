@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duncan-coder
 - 👀 I’m interested in robotics, electronics and coding
 - 🌱 I’m an Electronic Engineer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ CV is WIP
 - 📫 How to reach me dewaal.duncan@tuks.co.za
 
 <!---
